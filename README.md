@@ -25,6 +25,8 @@ Install the required library:
 pip install mysql-connector-python
 ```
 
+---
+
 ## Setup & Database Configuration
 
 -Import the SQL file (provided in the project) to create the database and products table
